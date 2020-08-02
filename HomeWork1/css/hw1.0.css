@@ -1,0 +1,35 @@
+header {
+    background-color: #aca9a9;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, "Times New Roman", serif;
+    color: #ffffff;
+}
+
+h2 {
+    color: #0b3ad4;
+    text-transform: uppercase;
+}
+
+section {
+    background-color: #747171;
+}
+
+a:link {
+    color: #000000;
+    background-color: #adacac;
+}
+
+img {
+    display : none;
+}
+
+table, th, td {
+    border: 1px solid brown;
+    border-collapse: collapse;   
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+}
